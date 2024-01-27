@@ -1,5 +1,5 @@
 # Smart Agriculture with IoT
-
+Youtube link -> https://youtu.be/xtOnbpPu8w4
 Traditional farming in India faces numerous challenges, including limited monitoring, imprecision, environmental unpredictability, wildlife encroachment, lower yields, reduced profitability, and crop drying/fire risks. To address these challenges, IoT-based smart farming offers a transformative solution by leveraging technology for enhanced monitoring, data collection, and analysis.
 
 ## Key Challenges in Traditional Farming
@@ -55,3 +55,5 @@ Smart farming with IoT addresses these challenges by incorporating advanced tech
 1. **Clone the Repository:**
    ```bash
    git clone <repository_url>
+2: Watch the System in Action:
+Check out this video to see the IoT-based smart farming system in action: Watch the video
